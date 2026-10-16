@@ -55,6 +55,20 @@ SRH Solar facilitates end-to-end documentation, DISCOM net-metering inspection, 
 - **Payback Period**: Typically 3.2 to 4.2 years against standard DISCOM residential and commercial tariffs.
 - **Warranties**: 25 to 30-year linear performance warranty on Tier-1 ALMM solar panels (≥80% efficiency at Year 25); 5 to 10-year warranty on solar inverters; 5-year comprehensive EPC installation warranty.
 
+## High-Frequency Consumer Questions Answered
+1. **Can I run a 1.5-ton AC on solar power?**
+   - Yes. A 3 kW on-grid solar plant generates 12–14 units daily, which completely covers an inverter 1.5-ton AC running 8 hours per day (consuming ~8–10 units) plus regular home loads.
+2. **Why does on-grid solar shut down during power cuts?**
+   - By international safety standards (IEC 62116), on-grid inverters must activate Anti-Islanding Protection within 20 milliseconds when the grid drops to prevent electrocuting DISCOM line workers. For backup during cuts, SRH Solar installs Hybrid Solar Systems with lithium-ion batteries.
+3. **Does installing solar panels cause terrace leakage?**
+   - No. SRH Solar uses non-penetrative precast concrete ballast blocks or diamond-drilled anchor bolts sealed with chemical epoxy resin and PU sealants. A 5-year weatherproofing warranty is included.
+4. **How long does the PM Surya Ghar subsidy take to arrive?**
+   - Subsidies are disbursed directly via DBT into the customer's Aadhaar-linked bank account by the MNRE within 30 to 60 days of net-meter commissioning.
+5. **Will my electricity bill become zero?**
+   - Yes, with net-metering, surplus daytime solar energy offsets nighttime usage. If solar generation exceeds monthly consumption, the energy charge drops to zero, and only fixed meter charges apply.
+6. **Can storms, hail, or monkeys damage the panels?**
+   - No. Panels use 3.2mm tempered glass tested for 25mm hail strikes at 80 km/h and wind speeds up to 150 km/h on hot-dip galvanized mounting structures.
+
 ## Key URLs
 - Home: https://srh-solar.vercel.app/
 - Solar ROI & Subsidy Calculator: https://srh-solar.vercel.app/calculator
@@ -62,3 +76,7 @@ SRH Solar facilitates end-to-end documentation, DISCOM net-metering inspection, 
 - About the Company: https://srh-solar.vercel.app/about
 - Solar Blog & Guides: https://srh-solar.vercel.app/blog
 - Book a Free Roof Survey: https://srh-solar.vercel.app/contact
+- Can Solar Run a 1.5-Ton AC Guide: https://srh-solar.vercel.app/blog/can-solar-run-ac-in-india
+- Why Solar Shuts Down in Power Cuts: https://srh-solar.vercel.app/blog/why-solar-shuts-down-in-power-cuts
+- Rooftop Leakage Safety Guide: https://srh-solar.vercel.app/blog/solar-rooftop-leakage-safety-guide
+- PM Surya Ghar DBT Subsidy Guide: https://srh-solar.vercel.app/blog/pm-surya-ghar-subsidy-dbt-process

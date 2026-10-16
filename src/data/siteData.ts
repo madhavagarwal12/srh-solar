@@ -313,10 +313,118 @@ export const BLOGS_DATA: BlogPost[] = [
       "Solar water pumps solve this challenge completely. Utilizing Bright Solar Variable Frequency Drive (VFD) inverters, solar panels directly drive standard AC submersible and surface motors during the day.",
       "A 5 HP solar water pump typically pays for itself within 2 seasons of diesel fuel savings alone, providing 25 years of dependable, zero-maintenance irrigation water."
     ]
+  },
+  {
+    slug: "can-solar-run-ac-in-india",
+    title: "Can You Run a 1.5-Ton AC on Solar Power in India? Exact Sizing, Units & Cost",
+    excerpt: "Discover how many solar panels and kW capacity you need to run a 1.5-ton inverter air conditioner, how much power it consumes, and daytime savings.",
+    category: "Appliances & Sizing",
+    readTime: "5 min read",
+    date: "October 16, 2026",
+    image: "/assets/images/solar-panel.jpg",
+    content: [
+      "During peak summer in India, electricity bills double or triple due to air conditioners. A common question among homeowners is: 'Can my AC run entirely on solar power, and what capacity do I need?' The short answer is: Absolutely yes! Solar generation and AC cooling requirements are a perfect thermodynamic match because peak sunshine aligns with the hottest hours of the day.",
+      "1. How Much Power Does a 1.5-Ton AC Consume? A modern 5-star inverter 1.5-ton split AC draws between 1,000 to 1,500 Watts while the compressor is ramping up, stabilizing at around 800 to 1,100 Watts once the room reaches the set temperature (24°C). Running the AC for 8 hours during the day consumes approximately 8 to 10 units (kWh) of electricity.",
+      "2. Recommended Solar Plant Sizing: To comfortably power a 1.5-ton inverter AC alongside standard home appliances (refrigerator, fans, lights, TV, and Wi-Fi router), an engineering benchmark of 3 kW on-grid solar capacity is recommended. A 3 kW plant in Rajasthan generates approximately 12 to 14 units (kWh) of clean electricity every sunny day.",
+      "3. How It Operates on On-Grid Solar: With an on-grid system, you do not need heavy, expensive battery banks to handle the startup surge. Solar panels generate power in real-time to drive the AC compressor. If a momentary cloud passes over, your home automatically pulls the small deficit from the utility grid without interruption.",
+      "4. Net Monthly Savings: At standard domestic grid rates in Rajasthan (₹7.50 to ₹9.50 per unit), saving 10 units daily translates to roughly ₹2,500 to ₹3,000 in monthly savings on AC usage alone. With the ₹78,000 central subsidy under PM Surya Ghar, a 3 kW system achieves full payback in 3.2 to 3.8 years.",
+      "5. Key Recommendations: Choose a 5-star Inverter AC over fixed-speed units, ensure 250–300 sq. ft. of shadow-free terrace area, and select Tier-1 TOPCon or Mono PERC bifacial solar modules for superior performance in high summer heat."
+    ]
+  },
+  {
+    slug: "why-solar-shuts-down-in-power-cuts",
+    title: "Why On-Grid Solar Shuts Down During Power Cuts: Anti-Islanding Protection Explained",
+    excerpt: "Why does your on-grid solar plant turn off when the grid loses power? Understand the critical anti-islanding safety feature and how to get uninterrupted backup.",
+    category: "Technical Safety",
+    readTime: "6 min read",
+    date: "October 15, 2026",
+    image: "/assets/images/Grid-connected-PV-system.png",
+    content: [
+      "One of the biggest surprises for first-time solar buyers in India is discovering that their on-grid rooftop solar system shuts off during daytime power cuts. Homeowners ask: 'The sun is shining brightly, so why isn't my solar system powering my house?'",
+      "1. The Mandatory Anti-Islanding Safety Mechanism: On-grid solar inverters are legally required by international standards (IEC 62116 / IEEE 1547) and Central Electricity Authority (CEA) regulations to feature 'Anti-Islanding Protection'. When the public power grid fails or DISCOM technicians shut off the local feeder for maintenance, your solar inverter must disconnect within 20 milliseconds.",
+      "2. Protecting Linemen Lives: If your solar system continued pumping high-voltage electricity into the distribution lines while the grid was down, those external wires would become an energized 'island'. Any DISCOM lineman repairing the line down the street could suffer fatal electrocution. Therefore, anti-islanding is a non-negotiable life-saving standard.",
+      "3. Grid Frequency Synchronization: On-grid inverters do not create their own sine-wave voltage reference. They synchronize with the grid's 50Hz AC frequency and voltage. Without the grid reference signal, standard on-grid inverters cannot operate safely.",
+      "4. How to Get Continuous Solar Power During Power Cuts: If you live in an area with frequent load shedding, you have two proven solutions: Option A is an SRH Hybrid Solar System combining net-metering export with an automated Transfer Switch and a high-voltage Lithium-ion battery bank. Option B is pairing your high-efficiency on-grid plant with a separate battery-backed domestic UPS to run essential lights, fans, and Wi-Fi.",
+      "5. SRH Solar Engineering Advice: If your local grid experiences less than 1 hour of outage daily, standard on-grid solar offers the highest financial ROI. If daytime power cuts exceed 2 hours, invest in an SRH Hybrid Solar installation for complete energy security."
+    ]
+  },
+  {
+    slug: "solar-rooftop-leakage-safety-guide",
+    title: "Will Rooftop Solar Installation Cause Water Leakage in Monsoons? Complete Safety Guide",
+    excerpt: "Learn how professional solar EPC engineering prevents roof seepage, the difference between chemical grouting vs ballast blocks, and structural guarantees.",
+    category: "Installation & Safety",
+    readTime: "5 min read",
+    date: "October 10, 2026",
+    image: "/assets/images/IMG_20191016_171817.jpg",
+    content: [
+      "For many Indian homeowners, the roof terrace is a cherished space for morning walks, winter sunbathing, and clothes drying. When considering solar panels, a frequent anxiety is: 'Will drilling anchor fasteners into my RCC terrace cause water leakage or ceiling dampness during heavy monsoon rains?'",
+      "1. The Short Answer: No, professional solar EPC installations do not cause roof leakage. However, poor workmanship by uncertified local contractors who drill haphazardly without waterproofing can indeed compromise your slab.",
+      "2. Non-Penetrative Concrete Ballast Mounts: For flat RCC roofs where drilling is undesirable, SRH Solar utilizes pre-cast, high-density concrete ballast blocks. The solar structure rests securely on the blocks without puncturing the roof membrane, held firm purely by calibrated gravitational load designed for 150 km/h wind resistance.",
+      "3. Chemical Fastening & Multi-Layer Waterproofing: When elevated anchor bolts are required, holes are drilled using diamond-tipped rotary tools. We inject high-strength epoxy resin (Hilti / Fischer chemical anchors) that expands to form a hermetic watertight seal. Each fastener base is coated with polyurethane (PU) sealant and industrial bitumen waterproofing compound.",
+      "4. Elevated Superstructures: In high-rise villas and buildings, we construct elevated superstructures (7–8 feet clearance). The anchor footings are cast into raised concrete pedestals with dedicated water-shedding chamfers, preventing rainwater from pooling around bolts.",
+      "5. Roof Drainage Preservation: Professional site surveys ensure panel rows do not obstruct natural rainwater drains, downpipes, or solar water heaters. Furthermore, SRH Solar provides a 5-year comprehensive installation and weatherproofing warranty."
+    ]
+  },
+  {
+    slug: "pm-surya-ghar-subsidy-dbt-process",
+    title: "PM Surya Ghar Muft Bijli Yojana: Step-by-Step Direct Benefit Transfer (DBT) Subsidy Guide",
+    excerpt: "Everything you need to know about claiming up to ₹78,000 central subsidy under PM Surya Ghar: eligibility, national portal filing, DISCOM inspection, and DBT disbursal.",
+    category: "Government Subsidy",
+    readTime: "7 min read",
+    date: "October 05, 2026",
+    image: "/assets/images/banner-1.jpg",
+    content: [
+      "The launch of PM Surya Ghar: Muft Bijli Yojana has revolutionized rooftop solar adoption across India. With a total outlay of ₹75,021 Crore, the scheme aims to provide up to 300 units of free electricity per month to 1 Crore households.",
+      "1. Exact Subsidy Slabs for Residential Rooftops: 1 kW System receives ₹30,000; 2 kW System receives ₹60,000; 3 kW and Above receives the maximum subsidy of ₹78,000 (capped at 3 kW benchmark). Group Housing Societies & RWAs receive ₹18,000 per kW up to 500 kW.",
+      "2. Who is Eligible? Any Indian residential electricity consumer with an active electricity connection in their name, a concrete or suitable rooftop, and no prior subsidy claimed for the same consumer account. Commercial and industrial connections are not eligible for PM Surya Ghar capital subsidies (they receive 40% Accelerated Depreciation tax benefits instead).",
+      "3. Step-by-Step Application Process: First, register on the National Portal (pmsuryaghar.gov.in) with your Consumer Account Number (K-Number). Second, submit technical feasibility to your state DISCOM (JVVNL/AVVNL/JdVVNL). Third, select an empaneled vendor like SRH Green Energy Pvt. Ltd. Fourth, installation is completed using DCR modules. Fifth, DISCOM tests the bidirectional net meter and commissions the system.",
+      "4. Direct Benefit Transfer (DBT): Submit your bank details and canceled cheque on the national portal. The MNRE disburses the subsidy directly into your bank account via PFMS/DBT within 30 to 60 days.",
+      "5. Why Work with an Empaneled EPC? Subsidies are strictly denied if you purchase non-DCR panels or install through unregistered vendors. SRH Solar manages the entire portal liaisoning from Day 1 to ensure guaranteed subsidy disbursal."
+    ]
   }
 ];
 
 export const FAQS_DATA: FAQItem[] = [
+  {
+    category: "Appliances & Load",
+    question: "Can I run a 1.5-ton AC, refrigerator, and water pump on solar power?",
+    answer: "Yes, absolutely! A 3 kW on-grid solar plant generates 12 to 14 units per day, which comfortably runs a 1.5-ton 5-star inverter AC (consuming 8–10 units/day) along with refrigerators, lights, and water pumps. During cloud cover, the system automatically pulls supplementary power from the grid without interruption."
+  },
+  {
+    category: "Technical Safety",
+    question: "Why does my on-grid solar system shut down during power cuts?",
+    answer: "This is a legally mandated safety feature called 'Anti-Islanding Protection'. It prevents your solar panels from exporting electricity into neighborhood power lines during an outage, protecting DISCOM linemen from fatal electrocution. If you need continuous power during cuts, SRH Solar installs Hybrid Solar Systems with automatic battery backup."
+  },
+  {
+    category: "Roof Safety",
+    question: "Will installing solar panels cause roof leakage or damage my terrace?",
+    answer: "No. Professional installations by SRH Solar use non-penetrative concrete ballast blocks or diamond-drilled chemical anchor bolts sealed with waterproof epoxy resin and UV-resistant PU sealant. We back our installations with a 5-year comprehensive structural and weatherproofing warranty."
+  },
+  {
+    category: "Subsidies",
+    question: "How is the PM Surya Ghar subsidy credited and how long does it take?",
+    answer: "The subsidy (₹30,000 for 1kW, ₹60,000 for 2kW, and ₹78,000 for 3kW+) is transferred via Direct Benefit Transfer (DBT) directly into your Aadhaar-linked bank account by the central government (MNRE) within 30 to 60 days of DISCOM net-meter commissioning."
+  },
+  {
+    category: "Net Metering",
+    question: "Will my electricity bill really drop to zero with net-metering?",
+    answer: "Yes! With bidirectional net-metering, every unit of surplus daytime solar electricity you export to the grid is credited against nighttime consumption. If monthly solar generation exceeds your consumption, your energy charge becomes ₹0, and you only pay nominal DISCOM fixed meter charges."
+  },
+  {
+    category: "Durability & Weather",
+    question: "Can high winds (up to 150 km/h), monkeys, or hail damage the panels?",
+    answer: "No. Our Tier-1 solar modules are built with 3.2mm tempered, anti-reflective toughened glass capable of withstanding 25mm hail strikes at 80 km/h and mechanical wind loads exceeding 2400 Pa. Structures are fabricated with hot-dip galvanized iron (80+ microns) to withstand high windstorms."
+  },
+  {
+    category: "Financing & Loans",
+    question: "Are collateral-free bank loans and low-interest solar EMIs available?",
+    answer: "Yes! Under the PM Surya Ghar scheme, major public and private banks (SBI, Canara Bank, PNB, HDFC) offer collateral-free solar loans at subsidized interest rates (approx. 7% p.a.) with tenures up to 7 years. The monthly EMI is often lower than your current electricity bill savings!"
+  },
+  {
+    category: "Vendor Verification",
+    question: "How do I verify if an installer is an empaneled vendor on the PM Surya Ghar Portal?",
+    answer: "You can verify empanelment directly on pmsuryaghar.gov.in under the 'Registered Vendors' section for your state DISCOM. SRH Green Energy Pvt. Ltd. is an officially empaneled vendor with JVVNL, AVVNL, and JdVVNL in Rajasthan."
+  },
   {
     category: "General",
     question: "What types of solar systems does SRH Solar install?",
@@ -330,17 +438,12 @@ export const FAQS_DATA: FAQItem[] = [
   {
     category: "Financials",
     question: "How long does it take to recoup my investment (payback period)?",
-    answer: "The typical ROI payback period is 3 to 4 years for commercial/industrial setups and 4 to 5 years for residential rooftop systems. After this period, you generate free electricity for 20+ years."
+    answer: "The typical ROI payback period is 3 to 4 years for commercial/industrial setups and 3.5 to 4.5 years for residential rooftop systems. After this period, you generate free electricity for 20+ years."
   },
   {
     category: "Technical",
     question: "What happens on cloudy days or during nighttime?",
-    answer: "On-grid systems draw power automatically and seamlessly from the utility grid at night. On cloudy days, modern Mono PERC panels still generate 20–40% power from diffused daylight."
-  },
-  {
-    category: "Subsidies",
-    question: "How do I claim the PM Surya Ghar government subsidy?",
-    answer: "SRH Solar handles the entire subsidy process on the national portal on your behalf: from DISCOM technical feasibility submission to net-meter commissioning, ensuring your DBT subsidy (up to ₹78,000) is credited directly to your bank account."
+    answer: "On-grid systems draw power automatically and seamlessly from the utility grid at night. On cloudy days, modern Mono PERC / TOPCon panels still generate 20–40% power from diffused daylight."
   },
   {
     category: "Maintenance",
