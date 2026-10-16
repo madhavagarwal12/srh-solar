@@ -1,0 +1,630 @@
+[
+  {
+    "id": 68,
+    "date": "2021-01-27T17:12:23",
+    "date_gmt": "2021-01-27T17:12:23",
+    "guid": {
+      "rendered": "https://srhsolar.com/?p=68"
+    },
+    "modified": "2021-02-04T18:01:02",
+    "modified_gmt": "2021-02-04T18:01:02",
+    "slug": "post-4",
+    "status": "publish",
+    "type": "post",
+    "link": "https://srhsolar.com/post-4/",
+    "title": {
+      "rendered": "Post 4"
+    },
+    "content": {
+      "rendered": "\n<p class=\"wp-block-paragraph\"><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 14,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "inline_featured_image": false,
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-68",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts/68",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/comments?post=68"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts/68/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 69,
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts/68/revisions/69"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/media/14"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/media?parent=68"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/categories?post=68"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/tags?post=68"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "date": "2021-01-27T17:11:29",
+    "date_gmt": "2021-01-27T17:11:29",
+    "guid": {
+      "rendered": "https://srhsolar.com/?p=66"
+    },
+    "modified": "2021-01-27T17:11:54",
+    "modified_gmt": "2021-01-27T17:11:54",
+    "slug": "post-3",
+    "status": "publish",
+    "type": "post",
+    "link": "https://srhsolar.com/post-3/",
+    "title": {
+      "rendered": "Post 3"
+    },
+    "content": {
+      "rendered": "\n<p class=\"wp-block-paragraph\"><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 64,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "inline_featured_image": false,
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-66",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts/66",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/comments?post=66"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 1,
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts/66/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 67,
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts/66/revisions/67"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/media/64"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/media?parent=66"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/categories?post=66"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/tags?post=66"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "date": "2021-01-27T17:10:34",
+    "date_gmt": "2021-01-27T17:10:34",
+    "guid": {
+      "rendered": "https://srhsolar.com/?p=62"
+    },
+    "modified": "2021-01-27T17:10:59",
+    "modified_gmt": "2021-01-27T17:10:59",
+    "slug": "post-2",
+    "status": "publish",
+    "type": "post",
+    "link": "https://srhsolar.com/post-2/",
+    "title": {
+      "rendered": "Post 2"
+    },
+    "content": {
+      "rendered": "\n<p class=\"wp-block-paragraph\"><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 64,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "inline_featured_image": false,
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-62",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts/62",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/comments?post=62"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts/62/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 65,
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts/62/revisions/65"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/media/64"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/media?parent=62"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/categories?post=62"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/tags?post=62"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "date": "2021-01-27T17:09:38",
+    "date_gmt": "2021-01-27T17:09:38",
+    "guid": {
+      "rendered": "https://srhsolar.com/?p=58"
+    },
+    "modified": "2021-01-27T17:10:17",
+    "modified_gmt": "2021-01-27T17:10:17",
+    "slug": "post-1",
+    "status": "publish",
+    "type": "post",
+    "link": "https://srhsolar.com/post-1/",
+    "title": {
+      "rendered": "Post 1"
+    },
+    "content": {
+      "rendered": "\n<p class=\"wp-block-paragraph\"><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 29,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "inline_featured_image": false,
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-58",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "has-post-thumbnail",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts/58",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/comments?post=58"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts/58/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 61,
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts/58/revisions/61"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/media/29"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/media?parent=58"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/categories?post=58"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/tags?post=58"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "date": "2021-01-25T17:14:48",
+    "date_gmt": "2021-01-25T17:14:48",
+    "guid": {
+      "rendered": "https://srhsolar.com/?p=1"
+    },
+    "modified": "2021-03-06T06:51:26",
+    "modified_gmt": "2021-03-06T06:51:26",
+    "slug": "hello-world",
+    "status": "publish",
+    "type": "post",
+    "link": "https://srhsolar.com/hello-world/",
+    "title": {
+      "rendered": "Solar Rooftop Benefits"
+    },
+    "content": {
+      "rendered": "\n<ul class=\"wp-block-list\"><li>They offer <strong>cost</strong> savings. The biggest advantage of installing rooftop solar panels is that they offer <strong>cost</strong> savings. &#8230;</li><li>It is a secure investment.</li><li>It increases access to <strong>energy</strong>.</li><li>Support from the government. </li><li>Reduces carbon footprints. </li><li>Green source of <strong>energy</strong>. </li><li>Low maintenance <strong>cost</strong>. </li><li>Suitable for Indian climate.</li></ul>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>They offer cost savings. The biggest advantage of installing rooftop solar panels is that they offer cost savings. &#8230; It is a secure investment. It increases access to energy. Support from the government. Reduces carbon footprints. Green source of energy. Low maintenance cost. Suitable for Indian climate.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "inline_featured_image": false,
+      "footnotes": ""
+    },
+    "categories": [
+      1
+    ],
+    "tags": [],
+    "class_list": [
+      "post-1",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-uncategorized"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts/1",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/comments?post=1"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts/1/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 188,
+          "href": "https://srhsolar.com/wp-json/wp/v2/posts/1/revisions/188"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://srhsolar.com/wp-json/wp/v2/media?parent=1"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/categories?post=1"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://srhsolar.com/wp-json/wp/v2/tags?post=1"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

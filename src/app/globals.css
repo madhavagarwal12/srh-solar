@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0E261D;
+  --foreground: #ffffff;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-jakarta), sans-serif;
+  overflow-x: hidden;
+}
+
+.font-editorial-italic {
+  font-family: var(--font-playfair), serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.font-doodle {
+  font-family: var(--font-caveat), cursive;
+}
+
+/* Rotating stamp animation */
+@keyframes spinClockwise {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.rotating-badge {
+  animation: spinClockwise 22s linear infinite;
+}
+
+/* Masking tape texture for polaroids */
+.masking-tape {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(2px);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 7px;
+}
+::-webkit-scrollbar-track {
+  background: #07150E;
+}
+::-webkit-scrollbar-thumb {
+  background: #255B46;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #A7F46A;
+}

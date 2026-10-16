@@ -1,0 +1,26 @@
+TITLE: FAQ
+URL: https://srhsolar.com/faq/
+
+CONTENT:
+What types of solar panels are available?
+Common types include monocrystalline, polycrystalline, and thin-film panels. Monocrystalline panels are known for their efficiency, while polycrystalline panels are more cost-effective.
+How long do solar panels last?
+Most solar panels have a lifespan of 25 to 30 years or more. They typically come with warranties that guarantee a certain level of performance over a specified period.
+What factors affect the efficiency of solar panels?
+Efficiency can be influenced by factors such as temperature, shading, the angle and orientation of the panels, and the quality of the solar cells.
+What size solar panel system do I need for my home?
+The size of the system you need depends on your energy consumption, location, and available roof space. A professional solar installer can assess your specific needs.
+How much will a solar panel system cost?
+Costs vary depending on the system size, panel type, location, and available incentives. It’s important to obtain quotes from local installers.
+Are there government incentives or tax credits for installing solar panels?
+Many countries and regions offer incentives and tax credits to encourage solar panel adoption. Research local incentives and consult a tax professional for details.
+How long does it take to recoup the investment in solar panels?
+The payback period varies depending on factors like installation costs, energy savings, and local electricity rates. On average, it can range from 5 to 10 years.
+Do solar panels require maintenance?
+Solar panels are generally low maintenance. Regular cleaning and occasional inspections are recommended to ensure optimal performance.
+What happens on cloudy days or at night when there’s no sunlight?
+A grid-connected solar panel system will draw power from the grid when sunlight is insufficient. Excess energy generated during sunny days can be stored in batteries or sent back to the grid for credits.
+What should I look for in a reputable solar panel installer?
+Look for experienced and certified installers, check references, and ensure they offer good warranties and customer service..
+How do I monitor the performance of my solar panel system?
+Many systems come with monitoring software, and you can also install third-party monitoring solutions to track energy production and system health.
