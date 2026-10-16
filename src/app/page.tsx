@@ -132,6 +132,7 @@ export default function HomePage() {
                   src="/assets/images/banner-1.jpg"
                   alt="SRH Green Energy Rooftop Solar"
                   className="w-full h-full object-cover object-center group-hover:scale-105 transition duration-700"
+                  decoding="async"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-forest-950/85 via-transparent to-transparent" />
                 
@@ -228,7 +229,13 @@ export default function HomePage() {
 
               <div className="relative w-full max-w-xs sm:max-w-md aspect-square rounded-full p-4 border border-earth-border/70 bg-white/40 backdrop-blur-sm shadow-xl flex items-center justify-center">
                 <div className="w-full h-full rounded-full overflow-hidden relative shadow-inner">
-                  <img src="/assets/images/solar-panel.jpg" alt="Solar Planet" className="w-full h-full object-cover" />
+                  <img
+                    src="/assets/images/solar-panel.jpg"
+                    alt="Solar Planet"
+                    loading="lazy"
+                    decoding="async"
+                    className="w-full h-full object-cover"
+                  />
                   <div className="absolute inset-0 bg-gradient-to-t from-forest-900/40 via-transparent to-transparent" />
                 </div>
                 
@@ -288,6 +295,8 @@ export default function HomePage() {
                 <img
                   src="/assets/images/IMG_20190909_125044.jpg"
                   alt="Commercial Solar Installation"
+                  loading="lazy"
+                  decoding="async"
                   className="w-full h-full object-cover group-hover:scale-105 transition duration-700"
                 />
                 <div className="absolute inset-0 bg-forest-950/40 group-hover:bg-forest-950/20 transition duration-300" />
@@ -406,7 +415,13 @@ export default function HomePage() {
         {/* SECTION 5: VIDEO / QUOTE BANNER (Immersive Nature Photo)                  */}
         {/* ========================================================================= */}
         <section className="relative py-24 sm:py-32 px-4 sm:px-12 text-center text-white overflow-hidden flex items-center justify-center">
-          <img src="/assets/images/solar-panel.jpg" alt="Nature and Mountains" className="absolute inset-0 w-full h-full object-cover" />
+          <img
+            src="/assets/images/solar-panel.jpg"
+            alt="Nature and Mountains"
+            loading="lazy"
+            decoding="async"
+            className="absolute inset-0 w-full h-full object-cover"
+          />
           <div className="absolute inset-0 bg-forest-950/80 backdrop-blur-[1px]" />
 
           <div className="relative z-10 max-w-4xl mx-auto space-y-6 sm:space-y-8">
@@ -472,7 +487,13 @@ export default function HomePage() {
               <div className="absolute top-2 left-2 sm:left-12 w-44 sm:w-60 bg-white p-3 sm:p-3.5 pb-5 sm:pb-6 rounded-lg shadow-2xl -rotate-6 border border-earth-border/40 hover:rotate-0 hover:z-30 hover:scale-105 transition-all duration-300">
                 <div className="absolute -top-3 left-1/2 -translate-x-1/2 w-14 sm:w-16 h-4 sm:h-5 masking-tape rotate-2 rounded-sm" />
                 <div className="aspect-square rounded overflow-hidden mb-2 sm:mb-3 bg-gray-100">
-                  <img src="/assets/images/IMG_20191016_171817.jpg" alt="Rooftop Structure" className="w-full h-full object-cover" />
+                  <img
+                    src="/assets/images/IMG_20191016_171817.jpg"
+                    alt="Rooftop Structure"
+                    loading="lazy"
+                    decoding="async"
+                    className="w-full h-full object-cover"
+                  />
                 </div>
                 <div className="font-doodle text-center text-forest-900 text-xs sm:text-base leading-none">
                   Hands Planting • Fertile Soil
@@ -482,7 +503,13 @@ export default function HomePage() {
               <div className="absolute top-6 right-2 sm:right-10 w-44 sm:w-64 bg-white p-3 sm:p-3.5 pb-5 sm:pb-6 rounded-lg shadow-2xl rotate-6 border border-earth-border/40 hover:rotate-0 hover:z-30 hover:scale-105 transition-all duration-300">
                 <div className="absolute -top-3 left-1/2 -translate-x-1/2 w-14 sm:w-16 h-4 sm:h-5 masking-tape -rotate-1 rounded-sm" />
                 <div className="aspect-square rounded overflow-hidden mb-2 sm:mb-3 bg-gray-100">
-                  <img src="/assets/images/IMG_20190909_125044.jpg" alt="Pristine Lake Landscape" className="w-full h-full object-cover" />
+                  <img
+                    src="/assets/images/IMG_20190909_125044.jpg"
+                    alt="Pristine Lake Landscape"
+                    loading="lazy"
+                    decoding="async"
+                    className="w-full h-full object-cover"
+                  />
                 </div>
                 <div className="font-doodle text-center text-forest-900 text-xs sm:text-base leading-none">
                   Pristine Waters &amp; Mountains
@@ -492,7 +519,13 @@ export default function HomePage() {
               <div className="absolute bottom-2 left-6 sm:left-20 w-40 sm:w-56 bg-white p-2.5 sm:p-3 pb-4 sm:pb-5 rounded-lg shadow-2xl rotate-3 border border-earth-border/40 hover:rotate-0 hover:z-30 hover:scale-105 transition-all duration-300">
                 <div className="absolute -top-3 left-1/2 -translate-x-1/2 w-12 sm:w-14 h-3.5 sm:h-4 masking-tape -rotate-3 rounded-sm" />
                 <div className="aspect-[4/3] rounded overflow-hidden mb-2 bg-gray-100">
-                  <img src="/assets/images/WhatsApp-Image-2021-02-24-at-9.14.24-AM-1-edited.jpeg" alt="Solar Leaf Array" className="w-full h-full object-cover" />
+                  <img
+                    src="/assets/images/WhatsApp-Image-2021-02-24-at-9.14.24-AM-1-edited.jpeg"
+                    alt="Solar Leaf Array"
+                    loading="lazy"
+                    decoding="async"
+                    className="w-full h-full object-cover"
+                  />
                 </div>
                 <div className="font-doodle text-center text-forest-900 text-xs sm:text-sm leading-none">
                   Green Leaves • Clean Energy

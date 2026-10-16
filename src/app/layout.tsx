@@ -7,22 +7,20 @@ const jakarta = Plus_Jakarta_Sans({
   subsets: ["latin"],
   variable: "--font-jakarta",
   display: "swap",
-  weight: ["300", "400", "500", "600", "700", "800"],
 });
 
 const playfair = Playfair_Display({
   subsets: ["latin"],
   variable: "--font-playfair",
   display: "swap",
-  style: ["italic", "normal"],
-  weight: ["400", "600", "700"],
+  weight: ["600"],
 });
 
 const caveat = Caveat({
   subsets: ["latin"],
   variable: "--font-caveat",
   display: "swap",
-  weight: ["400", "500", "600", "700"],
+  weight: ["600"],
 });
 
 const BASE_URL = "https://srh-solar.vercel.app";
