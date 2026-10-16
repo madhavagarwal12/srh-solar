@@ -381,6 +381,60 @@ export const BLOGS_DATA: BlogPost[] = [
       "4. Direct Benefit Transfer (DBT): Submit your bank details and canceled cheque on the national portal. The MNRE disburses the subsidy directly into your bank account via PFMS/DBT within 30 to 60 days.",
       "5. Why Work with an Empaneled EPC? Subsidies are strictly denied if you purchase non-DCR panels or install through unregistered vendors. SRH Solar manages the entire portal liaisoning from Day 1 to ensure guaranteed subsidy disbursal."
     ]
+  },
+  {
+    slug: "best-solar-company-in-jaipur",
+    title: "Best Solar Company in Jaipur: Top EPC Installers, Costs & PM Surya Ghar Subsidy Guide (2026)",
+    excerpt: "Looking for the best solar company in Jaipur? Compare top EPC contractors, JVVNL net-metering timelines, rooftop installation costs, and subsidy approvals across Rajasthan.",
+    category: "Jaipur Solar Guide",
+    readTime: "6 min read",
+    date: "October 16, 2026",
+    image: "/assets/images/banner-1.jpg",
+    content: [
+      "With over 300 days of abundant sunshine and peak irradiation of 5.5 to 6.0 kWh/m²/day, Jaipur is one of India's most advantageous cities for rooftop solar power. However, with dozens of local vendors and contractors operating across Rajasthan, choosing the right solar company is crucial to ensure high generation, watertight roof mounting, and guaranteed government subsidy disbursement.",
+      "1. What Makes SRH Solar the #1 Solar Company in Jaipur? Headquartered in Mansarovar, Jaipur, SRH Green Energy Pvt. Ltd. has installed over 2.5 MW+ across more than 450 residential, commercial, and agricultural projects. Unlike aggregators or middlemen who outsource installation to third-party daily laborers, SRH Solar deploys in-house engineering teams trained in structural civil safety and high-voltage electrical synchronization.",
+      "2. Sizing and Slashes to JVVNL Power Bills: Jaipur domestic electricity consumers under Jaipur Vidyut Vitran Nigam Ltd. (JVVNL) pay between ₹7.50 to ₹9.50 per unit in the higher consumption slabs. For an average 3BHK or independent villa in areas like Vaishali Nagar, Jagatpura, Malviya Nagar, or Mansarovar, a 3 kW to 5 kW solar plant generates 360 to 650 units per month, wiping out up to 90% of the bi-monthly power bill.",
+      "3. End-to-End JVVNL Net-Metering Liaison: The biggest bottleneck homeowners face in Jaipur is DISCOM bureaucracy—submitting transformer feasibility reports, getting the bidirectional meter tested in the JVVNL lab, and seal-ring synchronization. SRH Solar manages the entire approval process directly with local JVVNL subdivisional offices (AEN/JEN), ensuring rapid meter commissioning within 10–14 days.",
+      "4. Engineering Specs Tailored for Pink City Weather: Summer temperatures in Jaipur often exceed 46°C, which can cause significant thermal power loss in cheap solar modules. SRH Solar installs ALMM-approved Mono PERC and TOPCon N-Type bifacial solar panels featuring low temperature coefficients (-0.30%/°C) and hot-dip galvanized mounting structures rated for 150 km/h desert dust storms.",
+      "5. Transparent Pricing & Subsidy Support: Through the PM Surya Ghar Muft Bijli Yojana, residential clients in Jaipur receive a flat ₹78,000 central subsidy for systems 3 kW and above. Visit our head office in Sector 9, Mansarovar or book an on-site 3D shadow drone survey anywhere across Jaipur."
+    ]
+  },
+  {
+    slug: "affordable-solar-company-in-jaipur-mansarovar",
+    title: "Affordable Solar Panel Installation in Jaipur & Mansarovar: 1kW to 5kW Costs After Subsidy",
+    excerpt: "Get transparent pricing for rooftop solar in Mansarovar and Jaipur. Sizing breakdowns, zero-downpayment bank loan EMIs, and exact costs after PM Surya Ghar subsidy.",
+    category: "Mansarovar & Pricing",
+    readTime: "5 min read",
+    date: "October 16, 2026",
+    image: "/assets/images/solar-panel.jpg",
+    content: [
+      "Mansarovar, Jaipur—celebrated as one of Asia's largest planned residential colonies—is witnessing a massive surge in rooftop solar adoption. Spanning Sector 1 through Sector 12, Shipra Path, Madhyam Marg, Patel Marg, New Sanganer Road, and Muhana Mandi Road, hundreds of independent homeowners are turning unused terraces into revenue-generating mini power plants.",
+      "1. Exact Cost Breakdown for Solar in Jaipur & Mansarovar (2026 Benchmarks):",
+      "- 1 kW Solar Plant: Gross Cost ₹60,000 to ₹70,000 | Central Subsidy ₹30,000 | Net Cost to Customer: ₹30,000 to ₹40,000. Ideal for small 1–2 room setups running basic fans, lights, and refrigerator (generates 120 units/month).",
+      "- 2 kW Solar Plant: Gross Cost ₹1,20,000 to ₹1,35,000 | Central Subsidy ₹60,000 | Net Cost to Customer: ₹60,000 to ₹75,000. Perfect for 2BHK homes running fans, refrigerator, washing machine, and water pump (generates 240 units/month).",
+      "- 3 kW Solar Plant (Most Popular in Mansarovar): Gross Cost ₹1,70,000 to ₹1,95,000 | Maximum Subsidy ₹78,000 | Net Cost to Customer: ₹92,000 to ₹1,17,000. Comfortably powers a 1.5-ton inverter AC + whole household appliances (generates 360–400 units/month).",
+      "- 5 kW Solar Plant: Gross Cost ₹2,75,000 to ₹3,10,000 | Subsidy ₹78,000 | Net Cost to Customer: ₹1,97,000 to ₹2,32,000. Ideal for large duplex villas and joint families running multiple ACs and geysers (generates 600–650 units/month).",
+      "2. Low-Interest Collateral-Free Bank Financing: You don't need to pay upfront! Through nationalized banking tie-ups in Mansarovar (SBI Mansarovar Branch, PNB, Canara Bank), homeowners can finance 90% of the system cost with interest rates starting at approximately 7% per annum for up to 7 years. The monthly EMI is often lower than your monthly electricity savings, making the system cash-flow positive from Day 1.",
+      "3. Beware of 'Cheap' Local Contractors: Some fly-by-night operators in Jaipur offer unrealistically cheap quotes by using uncertified B-grade modules, substandard non-galvanized iron that rusts after two monsoons, and undersized DC cables. Cheap panels not only void government subsidies on the National Portal but pose serious fire risks.",
+      "4. Why Mansarovar Residents Trust SRH Solar: Located right in Sector 9, Mansarovar, SRH Green Energy Pvt. Ltd. is your local neighborhood solar EPC partner. Enjoy same-day site visits, rapid technical inspections, and personalized after-sales maintenance visits within 2 hours of a service call."
+    ]
+  },
+  {
+    slug: "commercial-industrial-solar-jaipur-epc",
+    title: "Commercial & Industrial Solar EPC in Jaipur: Slash High Tariffs in Sitapura, Mansarovar & VKI",
+    excerpt: "Cut industrial electricity costs from ₹10.50/unit down to ₹2.20/unit. How Jaipur factories in Sitapura, VKI, and Sanganer leverage solar EPC & 40% tax depreciation.",
+    category: "Commercial Solar EPC",
+    readTime: "7 min read",
+    date: "October 16, 2026",
+    image: "/assets/images/IMG_20191016_171817.jpg",
+    content: [
+      "For factories, textile units, gems & jewelry export houses, marble processing units, and cold storages across Jaipur's premier industrial hubs—including Sitapura Industrial Area, Vishwakarma Industrial Area (VKI), Mansarovar RIICO Area, and Sanganer Textile Hub—commercial power tariffs are among the largest operating expenses. JVVNL industrial HT/LT electricity rates routinely range between ₹9.00 to ₹11.50 per unit, severely compressing business margins.",
+      "1. The Economics of Industrial Solar in Jaipur: A captive rooftop solar plant produces electricity at a Levelized Cost of Energy (LCOE) of just ₹1.80 to ₹2.20 per unit over its 25-year lifespan. By substituting grid tariffs of ₹10+/unit with solar power, an industrial facility with a 100 kW to 500 kW installation saves between ₹15 Lakhs to ₹75 Lakhs annually in direct utility costs.",
+      "2. 40% Accelerated Depreciation Tax Shield: Under Section 32 of the Indian Income Tax Act, commercial and industrial enterprises can claim 40% Accelerated Depreciation on the capital cost of the solar plant in the very first year of commissioning. For a profit-making business taxed at 25% or 30%, this tax shield effectively writes off nearly a third of the project investment in Year 1 alone.",
+      "3. Fast Payback of 2.8 to 3.5 Years: Combining direct tariff savings with accelerated depreciation tax write-offs, commercial solar plants in Jaipur routinely achieve full capital payback within 2.8 to 3.5 years. For the remaining 22+ years of panel life, the generated electricity is practically free pure profit.",
+      "4. Structural Engineering for Industrial Sheds: Industrial tin and metal sheds require specialized non-penetrative mounting to avoid roof leaks or structural fatigue. SRH Solar designs custom aluminum standing-seam clamps and high-strength galvanized purlin mounts validated with STAAD.Pro structural wind load simulations.",
+      "5. High-Voltage HT/LT Interconnection & CEIG Clearance: SRH Solar handles complete turnkey EPC: supply of Tier-1 bifacial panels, industrial multi-MPPT inverters (Solis, Sungrow, Growatt), transformer integration, bidirectional net-metering approvals, and Chief Electrical Inspector to Government (CEIG) clearance. Contact SRH Solar's engineering office in Mansarovar, Jaipur for an industrial energy audit."
+    ]
   }
 ];
 
