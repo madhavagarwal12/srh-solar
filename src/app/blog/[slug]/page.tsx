@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import type { Metadata } from "next";
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 import { HeadingReveal } from "@/components/HeadingReveal";
@@ -11,6 +12,64 @@ export function generateStaticParams() {
   return BLOGS_DATA.map((post) => ({
     slug: post.slug,
   }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await params;
+  const post = BLOGS_DATA.find((p) => p.slug === slug);
+
+  if (!post) {
+    return {
+      title: "Article Not Found",
+    };
+  }
+
+  const BASE_URL = "https://srh-solar.vercel.app";
+
+  return {
+    title: `${post.title} | SRH Solar`,
+    description: post.excerpt,
+    keywords: [
+      post.category,
+      "Solar Energy India",
+      "Rooftop Solar Guide",
+      "SRH Solar",
+      "PM Surya Ghar",
+    ],
+    alternates: {
+      canonical: `/blog/${post.slug}`,
+    },
+    openGraph: {
+      type: "article",
+      title: post.title,
+      description: post.excerpt,
+      url: `${BASE_URL}/blog/${post.slug}`,
+      publishedTime: "2026-10-15T00:00:00.000Z",
+      authors: ["SRH Green Energy Pvt. Ltd."],
+      images: [
+        {
+          url: post.image.startsWith("http")
+            ? post.image
+            : `${BASE_URL}${post.image}`,
+          alt: post.title,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: post.title,
+      description: post.excerpt,
+      images: [
+        post.image.startsWith("http")
+          ? post.image
+          : `${BASE_URL}${post.image}`,
+      ],
+    },
+  };
 }
 
 export default async function BlogPostPage({
@@ -25,8 +84,44 @@ export default async function BlogPostPage({
     notFound();
   }
 
+  const BASE_URL = "https://srh-solar.vercel.app";
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: post.title,
+    description: post.excerpt,
+    image: post.image.startsWith("http")
+      ? post.image
+      : `${BASE_URL}${post.image}`,
+    datePublished: "2026-10-15T00:00:00.000Z",
+    dateModified: "2026-10-16T00:00:00.000Z",
+    author: {
+      "@type": "Organization",
+      name: "SRH Green Energy Pvt. Ltd.",
+      url: BASE_URL,
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "SRH Solar",
+      logo: {
+        "@type": "ImageObject",
+        url: `${BASE_URL}/assets/images/srhlogo.png`,
+      },
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `${BASE_URL}/blog/${post.slug}`,
+    },
+  };
+
   return (
     <div className="min-h-screen bg-forest-900 text-white flex flex-col justify-between overflow-x-hidden">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(articleSchema),
+        }}
+      />
       <Navbar />
 
       <main className="pt-28 sm:pt-36 pb-24">

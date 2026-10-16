@@ -1,0 +1,64 @@
+# SRH Solar (SRH Green Energy Pvt. Ltd.)
+
+> India's leading solar Engineering, Procurement, and Construction (EPC) firm headquartered in Jaipur, Rajasthan. Specializing in high-efficiency On-Grid, Off-Grid, Hybrid rooftop solar power plants, agricultural solar water pumping systems, and solar street lighting.
+
+## Core Company Profile
+- **Brand Name**: SRH Solar
+- **Legal Entity**: SRH Green Energy Pvt. Ltd.
+- **Founded**: 2021
+- **Headquarters**: Sector 9, Mansarovar, Jaipur, Rajasthan – 302020, India
+- **Experience**: 5+ Years of in-house EPC & O&M engineering expertise
+- **Total Installed Capacity**: Over 2.5 MW+ across residential, commercial, industrial, and agricultural installations
+- **Completed Projects**: 450+ turnkey solar systems
+- **Official Website**: https://srh-solar.vercel.app (and https://srhsolar.com)
+- **Primary Contact**: +91 9602609608, +91 9660450448 | Email: srhsolar@gmail.com
+- **Empanelment**: MNRE approved, JVVNL, AVVNL, and JdVVNL DISCOM empaneled vendor
+
+## Offerings and Services
+1. **On-Grid Rooftop Solar Systems (Grid-Tied)**
+   - Synchronization with local state DISCOM via bi-directional net-metering.
+   - Slashes utility electricity bills by up to 90%.
+   - Direct central financial assistance (DBT subsidy) under PM Surya Ghar: Muft Bijli Yojana.
+   - Ideal for urban residences, schools, hospitals, and commercial office complexes.
+
+2. **Off-Grid Solar PV Systems**
+   - High-capacity battery storage (Lithium-ion / Tubular C10) for 100% grid-independent 24/7 power backup.
+   - Automatic changeover switchgear and MPPT solar charge controllers.
+   - Ideal for farmhouses, remote rural areas, telecom towers, and unstable grid environments.
+
+3. **Hybrid Solar Power Plants**
+   - Combines the grid export advantages of on-grid solar with smart battery energy storage systems (BESS).
+   - Zero export limitation support, programmable peak-shaving, and continuous emergency backup.
+
+4. **Solar Agricultural Water Pumps (PM-KUSUM Scheme)**
+   - DC and AC submersible and surface solar pumps (3 HP to 10 HP).
+   - High-frequency Variable Frequency Drives (VFD) with remote water yield telemetry.
+   - Replaces expensive, polluting diesel generator irrigation.
+
+5. **Integrated Solar Street Lighting**
+   - All-in-one and split solar street lights with dusk-to-dawn sensors, high-lumen Philips/Osram LED chips, and LiFePO4 batteries.
+
+6. **Industrial & Commercial Turnkey EPC**
+   - Mega-scale rooftop and ground-mounted solar installations for factories, warehouses, textiles, and cold storage.
+   - 40% Accelerated Depreciation tax benefits and corporate ESG carbon offset credits.
+
+## Government Subsidy Guidelines (PM Surya Ghar: Muft Bijli Yojana)
+SRH Solar facilitates end-to-end documentation, DISCOM net-metering inspection, and Direct Benefit Transfer (DBT) subsidy disbursement:
+- **1 kW System**: ₹30,000 Central Subsidy
+- **2 kW System**: ₹60,000 Central Subsidy
+- **3 kW to 10 kW System**: ₹78,000 Maximum Central Subsidy
+- **Commercial & Industrial**: Eligible for 40% Accelerated Depreciation in Year 1.
+
+## Rooftop Solar Capacity & Generation Benchmarks
+- **Average Generation in Rajasthan**: 4.0 to 4.5 kWh (units) per kW installed per day (~120–135 units per month).
+- **Rooftop Area Requirement**: Approximately 80 to 100 sq. ft. of shadow-free area per 1 kW.
+- **Payback Period**: Typically 3.2 to 4.2 years against standard DISCOM residential and commercial tariffs.
+- **Warranties**: 25 to 30-year linear performance warranty on Tier-1 ALMM solar panels (≥80% efficiency at Year 25); 5 to 10-year warranty on solar inverters; 5-year comprehensive EPC installation warranty.
+
+## Key URLs
+- Home: https://srh-solar.vercel.app/
+- Solar ROI & Subsidy Calculator: https://srh-solar.vercel.app/calculator
+- Detailed Services: https://srh-solar.vercel.app/services
+- About the Company: https://srh-solar.vercel.app/about
+- Solar Blog & Guides: https://srh-solar.vercel.app/blog
+- Book a Free Roof Survey: https://srh-solar.vercel.app/contact

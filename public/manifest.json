@@ -1,0 +1,21 @@
+{
+  "name": "SRH Solar — Best Solar Services EPC Company",
+  "short_name": "SRH Solar",
+  "description": "Premium On-Grid, Off-Grid, and Hybrid solar solutions in Jaipur, Rajasthan with PM Surya Ghar subsidy support.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1f18",
+  "theme_color": "#bef264",
+  "icons": [
+    {
+      "src": "/assets/images/srhlogo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/srhlogo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
